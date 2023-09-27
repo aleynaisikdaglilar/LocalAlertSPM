@@ -1,11 +1,3 @@
-//public struct ButtonPackage {
-//    public private(set) var text = "Hello, World!"
-//
-//    public init() {
-//    }
-//}
-
-
 import UIKit
 
 public class AlertPackage: UIAlertController {
